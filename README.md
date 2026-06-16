@@ -11,7 +11,7 @@
 
 ## 🔧 Featured Project
 
-- **[Synced](https://github.com/darwinxzzz/synced)** — Streamlining hierarchical event inefficiencies — while cultivating proactivity in members toward organisational and personal growth. (Next.js 15 · tRPC · Supabase RLS · TypeScript)
+- **[Synced](https://github.com/darwinxzzz/synced)** — Streamlining hierarchical event inefficiencies while cultivating proactivity in members toward organisational and personal growth (Next.js 15 · tRPC · Supabase RLS · TypeScript)
 
 ## My Toolkit
 
