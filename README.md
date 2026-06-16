@@ -5,7 +5,7 @@
 ## About me
 
 - I'm **Darwin** (He/Him), an undergraduate at **Nanyang Technological University**
-- Into **Forward Deployment Engineering opportunities** (particularly Software Engineering and Robotics) and building quality validated products that targets pain points in organisations
+- Into **Forward Deployment Engineering** opportunities (particularly swe & robotics), and building quality and validated features that target organisational pain points
 - Head of Software Tech at Singapore Youth AI, an AI non-profit with **800+ members and 17 partnerships** 🚀
 -  I like tennis, travelling, and hope to eventually work in **San Francisco** or **Silicon Valley**
 
