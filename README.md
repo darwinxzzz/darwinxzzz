@@ -12,7 +12,7 @@
 
 ## 🔧 Featured Project
 
-- **[Synced](https://github.com/darwinxzzz/synced)** — a full-stack community event platform for admins and members (Next.js 15 · tRPC · Supabase RLS · TypeScript)
+- **[Synced](https://github.com/darwinxzzz/synced)** — Streamlining hierarchical event inefficiencies — while cultivating proactivity in members toward organisational and personal growth. (Next.js 15 · tRPC · Supabase RLS · TypeScript)
 
 ## My Toolkit
 
@@ -27,9 +27,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darwinxzzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwinxzzz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=darwinxzzz&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38bdf8&height=100&section=footer" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darwinxzzz&theme=tokyonight&no-frame=true&column=7" />
